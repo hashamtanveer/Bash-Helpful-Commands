@@ -1,2 +1,3 @@
+
 #Delete everything in a directory dir
 (rm -rf A5/{*,.*})&>/dev/null 
