@@ -1,1 +1,1 @@
-# 🤖 Bash Helpful One-Liners
+# 🤖 Helpful Bash One-Liners
